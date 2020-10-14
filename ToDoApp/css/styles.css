@@ -4,8 +4,8 @@
   box-sizing: border-box;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-body{
-  background-color: #294C60;
+body {
+  background-color: #294c60;
 }
 .container {
   width: 90%;
@@ -31,7 +31,7 @@ input {
   margin: 10px auto;
   padding: 25px;
   background-color: #eee;
-  color: #294C60;
+  color: #294c60;
 }
 .todo[data-importance="low"] {
   border-left: 5px solid yellow;
@@ -41,66 +41,39 @@ input {
 }
 .todo[data-importance="high"] {
   border-left: 5px solid red;
-<<<<<<< HEAD
-}
-h1 {
-  margin: 10px 0;
-}
-#btn__create {
-  padding: 10px 20px;
-  background-color: rgb(185, 185, 185);
-=======
 }
 #btn__create {
   padding: 10px 25px;
   background-color: #fff;
->>>>>>> 3d2b33f0ffc40a84daf1f52e0ea35903d60d6209
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  color: #294C60;
+  color: #294c60;
   font-weight: bold;
-  border: 3px solid #ADB6C4;
+  border: 3px solid #adb6c4;
   transition: width 1.5s, height 1.5s, transform 0.8s;
 }
-<<<<<<< HEAD
-=======
-
-#btn__create:hover {
-  transform: rotate(360deg);
-}
-
->>>>>>> 3d2b33f0ffc40a84daf1f52e0ea35903d60d6209
 #todo-input {
   width: 50%;
   padding: 10px 40px;
   border: 1px solid #555555;
 }
 
-<<<<<<< HEAD
-=======
 #importance {
   padding: 10px 25px;
-  background-color: #ADB6C4;
+  background-color: #adb6c4;
   text-transform: uppercase;
   letter-spacing: 2px;
   font-weight: bold;
   color: #fff;
 }
 
->>>>>>> 3d2b33f0ffc40a84daf1f52e0ea35903d60d6209
 h1 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   margin-top: 30px;
   color: #fff;
 }
-<<<<<<< HEAD
-h2 {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: large;
-=======
 
 h2 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: large;
   margin-bottom: 10px;
->>>>>>> 3d2b33f0ffc40a84daf1f52e0ea35903d60d6209
 }
